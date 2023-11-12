@@ -1,0 +1,18 @@
+.control-dots {
+    top: 351px;
+}
+
+.control-arrow, .control-prev {
+    height: 100px;
+    margin: auto;
+    color: #fff;
+    /* font-size: 26px; */
+    background: white;
+    border-radius: 4px;
+    color: white;
+    /* z-index: 5; */
+}
+
+.control-prev {
+    color: black;
+}
