@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e837d31f.css",
+    "main.js": "/static/js/main.2f9d1ce8.js",
+    "static/js/787.d92ff602.chunk.js": "/static/js/787.d92ff602.chunk.js",
+    "static/media/notesPhoto.jpg": "/static/media/notesPhoto.e13007856c4db0ce67a5.jpg",
+    "static/media/myphoto.jpg": "/static/media/myphoto.8609495eab5bc2b46e53.jpg",
+    "static/media/sorryMonkey.png": "/static/media/sorryMonkey.9c38b1dc036a55a893c4.png",
+    "static/media/arya-college-of-engineering-it-jaipur-227465.jpg": "/static/media/arya-college-of-engineering-it-jaipur-227465.8eac82e1d00f9578d204.jpg",
+    "index.html": "/index.html",
+    "main.e837d31f.css.map": "/static/css/main.e837d31f.css.map",
+    "main.2f9d1ce8.js.map": "/static/js/main.2f9d1ce8.js.map",
+    "787.d92ff602.chunk.js.map": "/static/js/787.d92ff602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e837d31f.css",
+    "static/js/main.2f9d1ce8.js"
+  ]
+}
